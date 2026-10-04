@@ -1,0 +1,1 @@
+streamlit, baidu-aip, chardet, openai
